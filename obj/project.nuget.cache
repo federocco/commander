@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OUuTFN/12Tri/ZW3ZwU4rlR2xWIR0bcZb/p/CoiSL9TtWXsACzuJmP3BOUKmv+ZKYEssZqk3qywIdwUhO0M5uQ==",
+  "dgSpecHash": "z6H+bRxk4Qx6/c0hWOh/ulefslhCeyJqJrb0Rq2kJ7BlthAQpqVa3nXLrASdkVKWzg5aDRVfPkYIGxrZWxMiXA==",
   "success": true,
   "projectFilePath": "/Volumes/Dev/Private/RestApi/Commander/Commander.csproj",
   "expectedPackageFiles": [
+    "/Users/federico/.nuget/packages/automapper/10.1.0/automapper.10.1.0.nupkg.sha512",
+    "/Users/federico/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.0/automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "/Users/federico/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/federico/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "/Users/federico/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
@@ -29,7 +31,8 @@
     "/Users/federico/.nuget/packages/pomelo.jsonobject/2.2.1/pomelo.jsonobject.2.2.1.nupkg.sha512",
     "/Users/federico/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
     "/Users/federico/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "/Users/federico/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "/Users/federico/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/Users/federico/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

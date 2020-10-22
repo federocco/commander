@@ -1,5 +1,5 @@
 using System;
-
+using AutoMapper;
 using Commander.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -44,7 +44,8 @@ namespace Commander
 
             services.AddControllers();
 
-            // services.AddScoped<ICommanderRepo, MockCommanderRepo>();
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
             services.AddScoped<ICommanderRepo, MySqlCommanderRepo>();
         }
 
